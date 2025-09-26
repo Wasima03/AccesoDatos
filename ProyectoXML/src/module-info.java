@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module ProyectoXML {
+	requires xstream;
+}
